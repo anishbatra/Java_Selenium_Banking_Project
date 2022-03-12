@@ -1,0 +1,115 @@
+2022-03-06 12:35:39 INFO  ebanking:14 - URL is opened
+  2022-03-06 12:35:39 INFO  ebanking:17 - Enter Username
+  2022-03-06 12:35:40 INFO  ebanking:19 - Enter password
+  2022-03-06 12:35:40 INFO  ebanking:25 - login test passed
+  2022-03-06 13:53:10 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:53:11 INFO  ebanking:17 - Enter Username
+  2022-03-06 13:53:11 INFO  ebanking:19 - Enter password
+  2022-03-06 13:53:11 INFO  ebanking:25 - login test passed
+  2022-03-06 13:54:25 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:54:25 INFO  ebanking:17 - Enter Username
+  2022-03-06 13:54:25 INFO  ebanking:19 - Enter password
+  2022-03-06 13:55:58 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:55:58 INFO  ebanking:17 - Enter Username
+  2022-03-06 13:55:59 INFO  ebanking:19 - Enter password
+  2022-03-06 13:56:19 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:56:19 INFO  ebanking:17 - Enter Username
+  2022-03-06 13:56:19 INFO  ebanking:19 - Enter password
+  2022-03-06 13:56:20 INFO  ebanking:25 - login test passed
+  2022-03-06 13:57:15 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:58:29 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:59:17 INFO  ebanking:14 - URL is opened
+  2022-03-06 13:59:17 INFO  ebanking:17 - Enter Username
+  2022-03-06 13:59:17 INFO  ebanking:19 - Enter password
+  2022-03-06 13:59:18 INFO  ebanking:25 - login test passed
+  2022-03-06 14:00:10 INFO  ebanking:14 - URL is opened
+  2022-03-06 14:00:10 INFO  ebanking:17 - Enter Username
+  2022-03-06 14:00:10 INFO  ebanking:19 - Enter password
+  2022-03-06 14:00:11 INFO  ebanking:25 - login test passed
+  2022-03-08 08:08:43 INFO  ebanking:14 - URL is opened
+  2022-03-08 08:08:44 INFO  ebanking:17 - Enter Username
+  2022-03-08 08:08:44 INFO  ebanking:19 - Enter password
+  2022-03-08 08:08:44 INFO  ebanking:25 - login test passed
+  2022-03-08 08:10:49 INFO  ebanking:14 - URL is opened
+  2022-03-08 08:10:50 INFO  ebanking:17 - Enter Username
+  2022-03-08 08:10:50 INFO  ebanking:19 - Enter password
+  2022-03-08 08:10:50 INFO  ebanking:25 - login test passed
+  2022-03-08 08:12:11 INFO  ebanking:14 - URL is opened
+  2022-03-08 08:12:12 INFO  ebanking:17 - Enter Username
+  2022-03-08 08:12:12 INFO  ebanking:19 - Enter password
+  2022-03-08 08:12:12 INFO  ebanking:25 - login test passed
+  2022-03-08 08:13:50 INFO  ebanking:14 - URL is opened
+  2022-03-08 08:13:50 INFO  ebanking:17 - Enter Username
+  2022-03-08 08:13:50 INFO  ebanking:19 - Enter password
+  2022-03-08 08:13:51 INFO  ebanking:25 - login test passed
+  2022-03-08 08:40:30 INFO  ebanking:14 - URL is opened
+  2022-03-08 08:40:30 INFO  ebanking:17 - Enter Username
+  2022-03-08 08:40:30 INFO  ebanking:19 - Enter password
+  2022-03-08 08:40:31 INFO  ebanking:25 - login test passed
+  2022-03-09 07:44:36 INFO  ebanking:16 - URL is opened
+  2022-03-09 07:44:37 INFO  ebanking:19 - Enter Username
+  2022-03-09 07:44:37 INFO  ebanking:21 - Enter password
+  2022-03-09 07:50:06 INFO  ebanking:16 - URL is opened
+  2022-03-09 07:50:06 INFO  ebanking:19 - Enter Username
+  2022-03-09 07:50:07 INFO  ebanking:21 - Enter password
+  2022-03-09 07:52:12 INFO  ebanking:16 - URL is opened
+  2022-03-09 07:52:13 INFO  ebanking:19 - Enter Username
+  2022-03-09 07:52:13 INFO  ebanking:21 - Enter password
+  2022-03-10 13:57:03 INFO  ebanking:20 - user name provided
+  2022-03-10 13:57:03 INFO  ebanking:22 - password provided
+  2022-03-10 13:57:07 WARN  ebanking:34 - Login passed
+  2022-03-10 13:57:12 INFO  ebanking:20 - user name provided
+  2022-03-10 13:57:12 INFO  ebanking:22 - password provided
+  2022-03-10 13:57:17 INFO  ebanking:20 - user name provided
+  2022-03-10 13:57:17 INFO  ebanking:22 - password provided
+  2022-03-10 13:57:22 INFO  ebanking:20 - user name provided
+  2022-03-10 13:57:22 INFO  ebanking:22 - password provided
+  2022-03-10 13:57:26 WARN  ebanking:34 - Login passed
+  2022-03-10 13:57:31 INFO  ebanking:20 - user name provided
+  2022-03-10 13:57:31 INFO  ebanking:22 - password provided
+  2022-03-10 16:13:26 INFO  ebanking:20 - user name provided
+  2022-03-10 16:13:27 INFO  ebanking:22 - password provided
+  2022-03-10 16:13:31 WARN  ebanking:34 - Login passed
+  2022-03-10 16:13:36 INFO  ebanking:20 - user name provided
+  2022-03-10 16:13:36 INFO  ebanking:22 - password provided
+  2022-03-10 16:13:41 INFO  ebanking:20 - user name provided
+  2022-03-10 16:13:42 INFO  ebanking:22 - password provided
+  2022-03-10 16:13:47 INFO  ebanking:20 - user name provided
+  2022-03-10 16:13:47 INFO  ebanking:22 - password provided
+  2022-03-10 16:13:51 WARN  ebanking:34 - Login passed
+  2022-03-10 16:13:56 INFO  ebanking:20 - user name provided
+  2022-03-10 16:13:56 INFO  ebanking:22 - password provided
+  2022-03-10 19:22:59 INFO  ebanking:16 - URL is opened
+  2022-03-10 19:23:00 INFO  ebanking:19 - Enter Username
+  2022-03-10 19:23:00 INFO  ebanking:21 - Enter password
+  2022-03-10 19:23:46 INFO  ebanking:16 - URL is opened
+  2022-03-10 19:23:46 INFO  ebanking:19 - Enter Username
+  2022-03-10 19:23:46 INFO  ebanking:21 - Enter password
+  2022-03-10 19:24:44 INFO  ebanking:16 - URL is opened
+  2022-03-10 19:24:45 INFO  ebanking:19 - Enter Username
+  2022-03-10 19:24:45 INFO  ebanking:21 - Enter password
+  2022-03-10 19:24:46 INFO  ebanking:27 - login test passed
+  2022-03-10 19:28:43 INFO  ebanking:16 - URL is opened
+  2022-03-10 19:28:44 INFO  ebanking:19 - Enter Username
+  2022-03-10 19:28:44 INFO  ebanking:21 - Enter password
+  2022-03-10 19:28:45 INFO  ebanking:27 - login test passed
+  2022-03-11 13:19:53 INFO  ebanking:16 - URL is opened
+  2022-03-11 13:19:53 INFO  ebanking:19 - Enter Username
+  2022-03-11 13:19:53 INFO  ebanking:21 - Enter password
+  2022-03-11 13:19:54 INFO  ebanking:27 - login test passed
+  2022-03-11 13:20:38 INFO  ebanking:16 - URL is opened
+  2022-03-11 13:20:38 INFO  ebanking:19 - Enter Username
+  2022-03-11 13:20:38 INFO  ebanking:21 - Enter password
+  2022-03-11 13:23:33 INFO  ebanking:16 - URL is opened
+  2022-03-11 13:23:34 INFO  ebanking:19 - Enter Username
+  2022-03-11 13:23:34 INFO  ebanking:21 - Enter password
+  2022-03-11 13:23:34 INFO  ebanking:27 - login test passed
+  2022-03-12 10:47:55 INFO  ebanking:16 - URL is opened
+  2022-03-12 10:47:56 INFO  ebanking:19 - Enter Username
+  2022-03-12 10:47:56 INFO  ebanking:21 - Enter password
+  2022-03-12 10:47:57 INFO  ebanking:27 - login test passed
+  2022-03-12 11:08:22 INFO  ebanking:16 - URL is opened
+  2022-03-12 11:08:23 INFO  ebanking:19 - Enter Username
+  2022-03-12 11:08:23 INFO  ebanking:21 - Enter password
+  2022-03-12 11:08:24 INFO  ebanking:27 - login test passed
+  
